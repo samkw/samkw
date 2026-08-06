@@ -16,7 +16,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=samkw&theme=dark&hide_border=false)   ![]<img data-importer="image" align="right" height="200" src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"  /><br/>
+![](https://streak-stats.demolab.com/?user=samkw&theme=dark&hide_border=false)   ![](<img data-importer="image" align="right" height="200" src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"  />)<br/>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
