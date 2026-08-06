@@ -1,8 +1,7 @@
-##
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hi%20I'm%20Sumit&fontSize=25&fontAlign=10&fontAlignY=25&stroke=-&animation=fadeIn&desc=Frontend%20Developer&descSize=12&descAlign=8&descAlignY=43&textBg=false&color=gradient"  />
 </div>
-###
 
 ## 🧑‍💻 About Me:
 Frontend Engineer passionate about building fast, scalable, and delightful web experiences.<br><br>I specialize in **React**, **Next.js**, **TypeScript**, and modern frontend architecture, with a strong focus on performance, accessibility, and clean, maintainable code. I enjoy turning complex product requirements into intuitive user interfaces that scale.<br><br> 🚀 What I Do<br><br> ⚛️ Build production-grade applications with React & Next.js<br> 🧠 Design reusable component libraries and scalable frontend architectures<br> ⚡ Optimize rendering performance, bundle size, and Core Web Vitals<br> 🧪 Write reliable unit tests with Jest and React Testing Library<br> 🔄 Migrate large JavaScript codebases to TypeScript<br> 🤝 Collaborate closely with product, design, and backend teams to ship high-quality features<br><br>
