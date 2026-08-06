@@ -2,9 +2,6 @@
 👋 Hi, I'm Sumit Waghmare<br><br>Frontend Engineer passionate about building fast, scalable, and delightful web experiences.<br><br>I specialize in **React**, **Next.js**, **TypeScript**, and modern frontend architecture, with a strong focus on performance, accessibility, and clean, maintainable code. I enjoy turning complex product requirements into intuitive user interfaces that scale.<br><br> 🚀 What I Do<br><br> ⚛️ Build production-grade applications with React & Next.js<br> 🧠 Design reusable component libraries and scalable frontend architectures<br> ⚡ Optimize rendering performance, bundle size, and Core Web Vitals<br> 🧪 Write reliable unit tests with Jest and React Testing Library<br> 🔄 Migrate large JavaScript codebases to TypeScript<br> 🤝 Collaborate closely with product, design, and backend teams to ship high-quality features<br><br>
 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/samkw/samkw/snake-output/snake.svg" alt="Snake animation" />
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit.kw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-waghmare/)
