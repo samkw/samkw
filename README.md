@@ -16,11 +16,11 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 
 ### 🚀 What I Do
 
- ⚛️ Build production-grade applications with **React & Next.js**
- 🧠 Design reusable component libraries and scalable frontend architectures
- ⚡ Optimize rendering performance, bundle size, and **Core Web Vitals**
- 🧪 Write reliable unit tests with **Jest & React Testing Library**
- 🔄 Migrate large JavaScript codebases to **TypeScript**
+ ⚛️ Build production-grade applications with **React & Next.js**<br>
+ 🧠 Design reusable component libraries and scalable frontend architectures<br>
+ ⚡ Optimize rendering performance, bundle size, and **Core Web Vitals**<br>
+ 🧪 Write reliable unit tests with **Jest & React Testing Library**<br>
+ 🔄 Migrate large JavaScript codebases to **TypeScript**<br>
  🤝 Collaborate closely with product, design, and backend teams to ship high-quality features
 
 ---
