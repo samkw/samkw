@@ -103,48 +103,26 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 ---
 
 ## 📊 GitHub Activity
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/samkw/samkw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/samkw/samkw/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    />
-    <img
-      src="https://raw.githubusercontent.com/samkw/samkw/pacman-output/pacman-contribution-graph.svg?game=pacman"
-      alt="Pacman contribution graph"
-      width="100%"
-    />
-  </picture>
-
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/samkw/samkw/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-<br />
-
-<div align="center">
-
+###
+<div align="right">
   <img
     src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"
     height="200"
     alt="Developer animation"
   />
-
 </div>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-
+<div align="left">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
     alt="Random developer quote"
   />
-
 </div>
