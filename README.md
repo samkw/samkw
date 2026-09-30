@@ -103,9 +103,7 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 ---
 
 ## 📊 GitHub Activity
-<div data-importer="stats" align="left">
 ![](https://streak-stats.demolab.com/?user=samkw&theme=dark&hide_border=true)<br/>
-</div>
 
 ###
 <div align="right">
