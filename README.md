@@ -8,24 +8,24 @@
 
 </div>
 
-##  About Me
+## 🔷 About Me
 
 Frontend Engineer passionate about building **fast, scalable, and delightful web experiences**.
 
 I specialize in **React, Next.js, TypeScript, and modern frontend architecture**, with a strong focus on performance, accessibility, and clean, maintainable code. I enjoy turning complex product requirements into intuitive user interfaces that scale.
 
-###  What I Do
+### 🔷 What I Do
 
- • Build production-grade applications with **React & Next.js**<br>
- • Design reusable component libraries and scalable frontend architectures<br>
- • Optimize rendering performance, bundle size, and **Core Web Vitals**<br>
- • Write reliable unit tests with **Jest & React Testing Library**<br>
- • Migrate large JavaScript codebases to **TypeScript**<br>
- • Collaborate closely with product, design, and backend teams to ship high-quality features
+ 🔴 Build production-grade applications with **React & Next.js**<br>
+ 🟣 Design reusable component libraries and scalable frontend architectures<br>
+ 🔵 Optimize rendering performance, bundle size, and **Core Web Vitals**<br>
+ 🟢 Write reliable unit tests with **Jest & React Testing Library**<br>
+ 🟡 Migrate large JavaScript codebases to **TypeScript**<br>
+ 🟠 Collaborate closely with product, design, and backend teams to ship high-quality features
 
 ---
 
-##  Connect With Me
+## 🔷 Connect With Me
 
 <div align="left">
 
@@ -69,7 +69,7 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 
 ---
 
-##  Tech Stack
+## 🔷 Tech Stack
 
 ### Frontend
 
@@ -102,7 +102,7 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 
 ---
 
-##  GitHub Activity
+## 🔷 GitHub Activity
 <div align="right">
   <img
     src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"
@@ -113,7 +113,7 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 
 ---
 
-##  Random Dev Quote
+## 🔷 Random Dev Quote
 
 <div align="left">
   <img
