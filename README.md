@@ -103,11 +103,19 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 ---
 
 ## 🔷 GitHub Activity
+<div align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/coding.gif"
+    height="200"
+    alt="Developer animation 1 "
+  />
+</div>
+
 <div align="right">
   <img
     src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"
     height="200"
-    alt="Developer animation"
+    alt="Developer animation 2"
   />
 </div>
 
