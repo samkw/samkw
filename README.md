@@ -105,7 +105,6 @@ I specialize in **React, Next.js, TypeScript, and modern frontend architecture**
 ## 📊 GitHub Activity
 ![](https://github-readme-stats.shion.dev/api?username=samkw&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
-###
 <div align="right">
   <img
     src="https://cdn.jsdelivr.net/gh/samkw/Portfolio-assets/gifs/skw2.gif"
